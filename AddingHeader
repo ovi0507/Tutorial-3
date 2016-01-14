@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Adding Navbar and Header</title>
+    <link href="myStyle/StyleSheet.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div id="myheader">
+        <h3><u> mylearnwp.com</u> </h3>
+
+    </div>
+    <div id="myNavbar">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Departments</a></li>
+            <li><a href="#">Employee</a></li>
+            <li><a href="#">PayRoll</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+    <div class="sideright">
+        <h2>Various lecture on Different Modules</h2>
+        <p>Lecture on AngularJS</p>
+        <p>Lecture on CSS</p>
+        <p>Lecture on MVC 4</p>
+        <p>Lecture on SQL Server</p>
+        <p>Lecture on Jquery</p>
+    </div>
+
+    <div class="sideright">
+        <h2>Various lecture on Different Modules 2</h2>
+        <p>Lecture on AngularJS</p>
+        <p>Lecture on CSS</p>
+        <p>Lecture on MVC 4</p>
+        <p>Lecture on SQL Server</p>
+        <p>Lecture on Jquery</p>
+    </div>
+    <div class="imagesidebardiv">
+        <img src="Images/flower1.jpg" class="imagesidebar"/>
+    </div>
+    <div class="main">
+        <h1>History of Bangladesh - After Independence</h1>
+
+        <p>
+            Upon assuming the presidency after his release, Sheikh Mujib briefly assumed the provisional presidency and later took office as the prime minister, heading all organs of government and decision-making. The politicians elected in 1970 formed the provisional parliament of the new state. The Mukti Bahini and other militias amalgamated to form a new Bangladeshi army to which Indian forces transferred control on March 17. The government faced serious challenges, which including the rehabilitation of millions of people displaced in 1971, organizing the supply of food, health aids and other necessities. The effects of the 1970 cyclone had not worn off, and the state's economy had immensely deteriorated by the conflict.
+        </p>
+        <h1>Assassination of Sheikh Mujibur Rahman and aftermath</h1>
+        <p>
+            On August 15, 1975, a group of junior army officers invaded the presidential residence with tanks and killed Mujib, his family and personal staff.[2] Only his daughters Sheikh Hasina Wajed and Sheikh Rehana, who were visiting West Germany, escaped. They were banned from returning to Bangladesh.[7] The coup was planned by disgruntled Awami League colleagues and military officers, which included Mujib's colleague and former confidanté Khondaker Mostaq Ahmad, who became his immediate successor. There was intense speculation in the media accusing the U.S. Central Intelligence Agency of having instigated the plot.[8] Lawrence Lifschultz has alleged that the CIA was involved in the coup and assassination, basing his assumption on the then US ambassador in Dhaka Eugene Booster.[9]
+        </p>
+        
+    </div>
+    
+    <div class="main">
+        <h1>The dictatorship of Hussain Muhammad Ershad, 1982-90</h1>
+
+        <p>
+            Army Chief of Staff Lieutenant General Hussain Muhammad Ershad assumed power in a bloodless coup on March 24, 1982, citing the "grave political, economic, and societal crisis" that the nation was in. This move was not unanticipated, as Ershad had previously expressed distaste with the aging Sattar (who was past his 75th birthday) and his handling of national affairs, in addition to his refusal to allow the army more participation in politics. Like his predecessors,
+        </p>
+        <h1>Transition to democracy</h1>
+        <p>
+            Despite a boycott by the BNP, led by President Zia's widow, Begum Khaleda Zia, parliamentary elections were held on schedule in May 1986. The Jatiya Party won a modest majority of the 300 elected seats in the National Assembly. The participation of the Awami League—led by the late President Mujib's daughter, Sheikh Hasina Wajed—lent the elections some credibility, despite widespread charges of voting irregularities
+        </p>
+
+    </div>
+    <!-- amra jodi sideright div taake right e float korate chai tobe main div er upore dite hobe -->
+    <div id="footer">
+
+        <ul>
+            <li><a href="">About US</a></li>
+            <li><a href="">Details</a></li>
+            <li><a href="">Help</a></li>
+            <li><a href="">Contact US</a></li>
+        </ul>
+        &copy; 2016 mylearnwp.com All Rights reserved.
+    </div>
+
+    <!-- HTML E ALWAYS DIV ER SEQUENCE THAKE TAI FOOTER ER DIV UPORE DILAY TA UPORE CHOLE JABE-->
+    
+</body>
+</html>
